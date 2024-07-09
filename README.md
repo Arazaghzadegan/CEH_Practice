@@ -14,4 +14,4 @@ This Practices Helps you to improve youre CEH Skills and for some of you it migh
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
--Each tools will be introducedd in its own Practice
+-Each tools will be introduced in its own Practice
